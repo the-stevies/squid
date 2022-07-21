@@ -1,16 +1,14 @@
 {
   "files": {
     "main.css": "/squid/static/css/main.073c9b0a.css",
-    "main.js": "/squid/static/js/main.c96700ba.js",
-    "static/js/787.a97d82e6.chunk.js": "/squid/static/js/787.a97d82e6.chunk.js",
+    "main.js": "/squid/static/js/main.ec4e3f01.js",
     "static/media/logo.svg": "/squid/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/squid/index.html",
     "main.073c9b0a.css.map": "/squid/static/css/main.073c9b0a.css.map",
-    "main.c96700ba.js.map": "/squid/static/js/main.c96700ba.js.map",
-    "787.a97d82e6.chunk.js.map": "/squid/static/js/787.a97d82e6.chunk.js.map"
+    "main.ec4e3f01.js.map": "/squid/static/js/main.ec4e3f01.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c96700ba.js"
+    "static/js/main.ec4e3f01.js"
   ]
 }
